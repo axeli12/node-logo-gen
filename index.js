@@ -44,7 +44,7 @@ function genShaped ({text, textColor, shapeBg, shape}) {
             break;
 
     }
-    return writeFile('logo.svg', newShape.render)
+    return writeFile("logo.svg", newShape.render())
 }
 
 const init = () => {
