@@ -1,4 +1,9 @@
 # Node SVG Logo Genrator
+## video preview
+
+https://user-images.githubusercontent.com/103465115/224199985-e0399d1a-b863-4f99-bc9e-00924dbc2cce.mov
+
+
 
 ## installation
 - node.js
